@@ -21,4 +21,4 @@ Evidence is based on the included source, generated artifacts, executed notebook
 | Required notebook, code, clean dataset, model, report, README | PASS | All listed artifacts are present; notebook executed all 11 code cells without error. |
 | Required visualizations | PASS | Five actual generated Task 2 PNG charts in `images/` and embedded in the report. |
 | Assignment screenshots | PARTIAL | Chart exports and executed notebook outputs are included. Separate desktop application screenshots are not included. |
-| GitHub repository and remote push | PARTIAL | A separate local Task 2-only repository is prepared. A new HTTPS/SSH URL is needed before verifying or pushing to GitHub. |
+| GitHub repository and remote push | PASS | Separate Task 2-only repository pushed to `https://github.com/chaitan19/ai-ml-internship-task-2` on `main`; remote commit verified. |
